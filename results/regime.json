@@ -1,0 +1,186 @@
+[
+  {
+    "seed": 0,
+    "epochs": 5,
+    "sigma": 1.0,
+    "bnn_accuracy": 0.6994,
+    "bnn_ece": 0.13684804171323778,
+    "mean_epi_id": 0.2893769145011902,
+    "mean_epi_ood": 0.8693087697029114,
+    "mean_alea_id": 0.9136597514152527,
+    "mean_alea_ood": 0.4413303732872009,
+    "auroc": {
+      "msp": 0.52235396,
+      "total": 0.51884146,
+      "aleatoric": 0.31460474000000005,
+      "epistemic": 0.9498078000000001
+    },
+    "fpr95": {
+      "msp": 0.7636,
+      "total": 0.7752,
+      "aleatoric": 0.8818,
+      "epistemic": 0.2962
+    }
+  },
+  {
+    "seed": 0,
+    "epochs": 5,
+    "sigma": 0.1,
+    "bnn_accuracy": 0.7936,
+    "bnn_ece": 0.0784854390949011,
+    "mean_epi_id": 0.11491122841835022,
+    "mean_epi_ood": 0.4565207064151764,
+    "mean_alea_id": 0.6629405617713928,
+    "mean_alea_ood": 1.0355197191238403,
+    "auroc": {
+      "msp": 0.7706169600000001,
+      "total": 0.83864376,
+      "aleatoric": 0.7212994800000001,
+      "epistemic": 0.9690264800000001
+    },
+    "fpr95": {
+      "msp": 0.6778,
+      "total": 0.6638,
+      "aleatoric": 0.73,
+      "epistemic": 0.15
+    }
+  },
+  {
+    "seed": 0,
+    "epochs": 20,
+    "sigma": 1.0,
+    "bnn_accuracy": 0.84,
+    "bnn_ece": 0.04349895834326743,
+    "mean_epi_id": 0.09123857319355011,
+    "mean_epi_ood": 0.7027534246444702,
+    "mean_alea_id": 0.45394444465637207,
+    "mean_alea_ood": 0.7134280204772949,
+    "auroc": {
+      "msp": 0.83701642,
+      "total": 0.88558432,
+      "aleatoric": 0.69194678,
+      "epistemic": 0.98213992
+    },
+    "fpr95": {
+      "msp": 0.5226,
+      "total": 0.4874,
+      "aleatoric": 0.6216,
+      "epistemic": 0.0644
+    }
+  },
+  {
+    "seed": 0,
+    "epochs": 20,
+    "sigma": 0.1,
+    "bnn_accuracy": 0.872,
+    "bnn_ece": 0.04393136444687844,
+    "mean_epi_id": 0.04694811999797821,
+    "mean_epi_ood": 0.36733248829841614,
+    "mean_alea_id": 0.42026033997535706,
+    "mean_alea_ood": 0.9789093732833862,
+    "auroc": {
+      "msp": 0.86025536,
+      "total": 0.91023604,
+      "aleatoric": 0.8464103599999999,
+      "epistemic": 0.9871856800000001
+    },
+    "fpr95": {
+      "msp": 0.4426,
+      "total": 0.3908,
+      "aleatoric": 0.4702,
+      "epistemic": 0.0498
+    }
+  },
+  {
+    "seed": 1,
+    "epochs": 5,
+    "sigma": 1.0,
+    "bnn_accuracy": 0.716,
+    "bnn_ece": 0.12715812119841574,
+    "mean_epi_id": 0.29428717494010925,
+    "mean_epi_ood": 0.8385485410690308,
+    "mean_alea_id": 0.8674077391624451,
+    "mean_alea_ood": 0.7745059728622437,
+    "auroc": {
+      "msp": 0.63286084,
+      "total": 0.68217766,
+      "aleatoric": 0.48907226000000004,
+      "epistemic": 0.95570576
+    },
+    "fpr95": {
+      "msp": 0.7212,
+      "total": 0.6924,
+      "aleatoric": 0.7612,
+      "epistemic": 0.2654
+    }
+  },
+  {
+    "seed": 1,
+    "epochs": 5,
+    "sigma": 0.1,
+    "bnn_accuracy": 0.8008,
+    "bnn_ece": 0.0948583135843277,
+    "mean_epi_id": 0.12170874327421188,
+    "mean_epi_ood": 0.4232122004032135,
+    "mean_alea_id": 0.709356427192688,
+    "mean_alea_ood": 1.1468925476074219,
+    "auroc": {
+      "msp": 0.8000697800000001,
+      "total": 0.86210994,
+      "aleatoric": 0.7572483600000001,
+      "epistemic": 0.9799879200000001
+    },
+    "fpr95": {
+      "msp": 0.5556,
+      "total": 0.5246,
+      "aleatoric": 0.613,
+      "epistemic": 0.0708
+    }
+  },
+  {
+    "seed": 1,
+    "epochs": 20,
+    "sigma": 1.0,
+    "bnn_accuracy": 0.845,
+    "bnn_ece": 0.028985162305831924,
+    "mean_epi_id": 0.08230562508106232,
+    "mean_epi_ood": 0.4672619700431824,
+    "mean_alea_id": 0.4015789031982422,
+    "mean_alea_ood": 0.6203486323356628,
+    "auroc": {
+      "msp": 0.75135842,
+      "total": 0.7908612600000001,
+      "aleatoric": 0.6723763600000001,
+      "epistemic": 0.92940464
+    },
+    "fpr95": {
+      "msp": 0.6374,
+      "total": 0.6322,
+      "aleatoric": 0.6764,
+      "epistemic": 0.4906
+    }
+  },
+  {
+    "seed": 1,
+    "epochs": 20,
+    "sigma": 0.1,
+    "bnn_accuracy": 0.8592,
+    "bnn_ece": 0.015860030919313404,
+    "mean_epi_id": 0.04639529436826706,
+    "mean_epi_ood": 0.36713701486587524,
+    "mean_alea_id": 0.37074247002601624,
+    "mean_alea_ood": 0.8783138394355774,
+    "auroc": {
+      "msp": 0.8529097999999999,
+      "total": 0.8933671,
+      "aleatoric": 0.82912524,
+      "epistemic": 0.9749930400000001
+    },
+    "fpr95": {
+      "msp": 0.4882,
+      "total": 0.4532,
+      "aleatoric": 0.5094,
+      "epistemic": 0.1368
+    }
+  }
+]

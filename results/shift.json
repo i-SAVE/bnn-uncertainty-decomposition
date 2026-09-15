@@ -1,0 +1,214 @@
+[
+  {
+    "seed": 0,
+    "angles": [
+      {
+        "angle": 0,
+        "accuracy": 0.694,
+        "mean_total": 1.1997265815734863,
+        "mean_alea": 0.9104210138320923,
+        "mean_epi": 0.28930559754371643
+      },
+      {
+        "angle": 15,
+        "accuracy": 0.50675,
+        "mean_total": 1.438642978668213,
+        "mean_alea": 1.0540295839309692,
+        "mean_epi": 0.3846133053302765,
+        "auroc_epistemic": 0.6178281875,
+        "auroc_total": 0.6125670624999999,
+        "auroc_aleatoric": 0.5716344999999999,
+        "auroc_msp": 0.60588875
+      },
+      {
+        "angle": 30,
+        "accuracy": 0.31625,
+        "mean_total": 1.5944578647613525,
+        "mean_alea": 1.1761435270309448,
+        "mean_epi": 0.4183141887187958,
+        "auroc_epistemic": 0.64201240625,
+        "auroc_total": 0.7018711562500001,
+        "auroc_aleatoric": 0.6253891250000001,
+        "auroc_msp": 0.66181578125
+      },
+      {
+        "angle": 45,
+        "accuracy": 0.18375,
+        "mean_total": 1.7627326250076294,
+        "mean_alea": 1.2159512042999268,
+        "mean_epi": 0.5467814207077026,
+        "auroc_epistemic": 0.75300809375,
+        "auroc_total": 0.80171428125,
+        "auroc_aleatoric": 0.6367845624999999,
+        "auroc_msp": 0.74045178125
+      },
+      {
+        "angle": 60,
+        "accuracy": 0.1065,
+        "mean_total": 1.7491962909698486,
+        "mean_alea": 1.1504542827606201,
+        "mean_epi": 0.5987420082092285,
+        "auroc_epistemic": 0.7979885,
+        "auroc_total": 0.77706565625,
+        "auroc_aleatoric": 0.6125492187499999,
+        "auroc_msp": 0.71431796875
+      },
+      {
+        "angle": 90,
+        "accuracy": 0.083,
+        "mean_total": 1.5609527826309204,
+        "mean_alea": 1.0475561618804932,
+        "mean_epi": 0.5133965015411377,
+        "auroc_epistemic": 0.7176427812499999,
+        "auroc_total": 0.68273478125,
+        "auroc_aleatoric": 0.571852,
+        "auroc_msp": 0.6265438125
+      },
+      {
+        "angle": 120,
+        "accuracy": 0.14025,
+        "mean_total": 1.8231921195983887,
+        "mean_alea": 1.2993792295455933,
+        "mean_epi": 0.5238128900527954,
+        "auroc_epistemic": 0.71452721875,
+        "auroc_total": 0.8359546874999999,
+        "auroc_aleatoric": 0.66842171875,
+        "auroc_msp": 0.77285715625
+      },
+      {
+        "angle": 150,
+        "accuracy": 0.246,
+        "mean_total": 1.8492704629898071,
+        "mean_alea": 1.2915968894958496,
+        "mean_epi": 0.5576735138893127,
+        "auroc_epistemic": 0.74509,
+        "auroc_total": 0.8468378750000001,
+        "auroc_aleatoric": 0.6643098437500001,
+        "auroc_msp": 0.7786433125
+      },
+      {
+        "angle": 180,
+        "accuracy": 0.2375,
+        "mean_total": 1.585128664970398,
+        "mean_alea": 1.1341303586959839,
+        "mean_epi": 0.45099836587905884,
+        "auroc_epistemic": 0.6437468749999999,
+        "auroc_total": 0.69246846875,
+        "auroc_aleatoric": 0.6057911874999999,
+        "auroc_msp": 0.670320375
+      }
+    ],
+    "mnist": {
+      "epistemic": 0.9493546875000001,
+      "total": 0.5174225,
+      "aleatoric": 0.31772065624999996,
+      "msp": 0.519863375
+    }
+  },
+  {
+    "seed": 1,
+    "angles": [
+      {
+        "angle": 0,
+        "accuracy": 0.7085,
+        "mean_total": 1.1613174676895142,
+        "mean_alea": 0.8687496185302734,
+        "mean_epi": 0.2925679385662079
+      },
+      {
+        "angle": 15,
+        "accuracy": 0.54,
+        "mean_total": 1.5542564392089844,
+        "mean_alea": 1.1515326499938965,
+        "mean_epi": 0.4027238190174103,
+        "auroc_epistemic": 0.6429145625000001,
+        "auroc_total": 0.6633084687499999,
+        "auroc_aleatoric": 0.6301489062500001,
+        "auroc_msp": 0.6562655625
+      },
+      {
+        "angle": 30,
+        "accuracy": 0.2855,
+        "mean_total": 1.8557294607162476,
+        "mean_alea": 1.3775771856307983,
+        "mean_epi": 0.47815221548080444,
+        "auroc_epistemic": 0.71475034375,
+        "auroc_total": 0.8147614375,
+        "auroc_aleatoric": 0.718453125,
+        "auroc_msp": 0.7807503125
+      },
+      {
+        "angle": 45,
+        "accuracy": 0.168,
+        "mean_total": 1.8916242122650146,
+        "mean_alea": 1.377718448638916,
+        "mean_epi": 0.5139057636260986,
+        "auroc_epistemic": 0.7528082187499999,
+        "auroc_total": 0.8303436562500001,
+        "auroc_aleatoric": 0.716800625,
+        "auroc_msp": 0.7851381875
+      },
+      {
+        "angle": 60,
+        "accuracy": 0.09275,
+        "mean_total": 1.8155391216278076,
+        "mean_alea": 1.237457036972046,
+        "mean_epi": 0.5780821442604065,
+        "auroc_epistemic": 0.8160690312500001,
+        "auroc_total": 0.78512825,
+        "auroc_aleatoric": 0.6636704062500001,
+        "auroc_msp": 0.7464958749999999
+      },
+      {
+        "angle": 90,
+        "accuracy": 0.0675,
+        "mean_total": 1.5014697313308716,
+        "mean_alea": 1.016699194908142,
+        "mean_epi": 0.48477062582969666,
+        "auroc_epistemic": 0.75182034375,
+        "auroc_total": 0.65053275,
+        "auroc_aleatoric": 0.5718654375,
+        "auroc_msp": 0.62319575
+      },
+      {
+        "angle": 120,
+        "accuracy": 0.11775,
+        "mean_total": 1.7891535758972168,
+        "mean_alea": 1.283147931098938,
+        "mean_epi": 0.5060055255889893,
+        "auroc_epistemic": 0.77832928125,
+        "auroc_total": 0.7754737500000001,
+        "auroc_aleatoric": 0.67654434375,
+        "auroc_msp": 0.75991225
+      },
+      {
+        "angle": 150,
+        "accuracy": 0.193,
+        "mean_total": 1.8788537979125977,
+        "mean_alea": 1.4034494161605835,
+        "mean_epi": 0.4754043221473694,
+        "auroc_epistemic": 0.7294424687500001,
+        "auroc_total": 0.8203533749999999,
+        "auroc_aleatoric": 0.72534146875,
+        "auroc_msp": 0.7900674375
+      },
+      {
+        "angle": 180,
+        "accuracy": 0.3315,
+        "mean_total": 1.7201658487319946,
+        "mean_alea": 1.3300861120224,
+        "mean_epi": 0.3900798261165619,
+        "auroc_epistemic": 0.621809125,
+        "auroc_total": 0.7469278750000001,
+        "auroc_aleatoric": 0.6990244999999999,
+        "auroc_msp": 0.7370270312499999
+      }
+    ],
+    "mnist": {
+      "epistemic": 0.9570556250000001,
+      "total": 0.6835355625,
+      "aleatoric": 0.48994940625,
+      "msp": 0.6339636875000001
+    }
+  }
+]
