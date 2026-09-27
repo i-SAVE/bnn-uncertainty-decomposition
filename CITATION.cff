@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Если вы используете этот код или результаты, пожалуйста, сошлитесь на них по метаданным ниже."
+type: software
+title: "Decomposition of predictive uncertainty in a Bayesian convolutional network for out-of-distribution detection: code and results"
+authors:
+  - family-names: Kistin
+    given-names: Ilya A.
+    affiliation: "Moscow Institute of Physics and Technology (MIPT); RANEPA"
+  - family-names: Isaev
+    given-names: Sharip M.
+    affiliation: "Advanced Engineering School “Digital Engineering”, Peter the Great St. Petersburg Polytechnic University"
+license: MIT
+repository-code: "https://github.com/i-SAVE/bnn-uncertainty-decomposition"
+version: "1.0.0"
+date-released: "2026-09-27"
+keywords:
+  - Bayesian neural networks
+  - uncertainty decomposition
+  - epistemic uncertainty
+  - aleatoric uncertainty
+  - out-of-distribution detection
+  - variational inference
+  - reproducibility
