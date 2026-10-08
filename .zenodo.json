@@ -1,11 +1,25 @@
 {
   "title": "Decomposition of predictive uncertainty in a Bayesian convolutional network for out-of-distribution detection: code and results",
   "upload_type": "software",
-  "description": "Code, saved per-run metrics and raw per-object uncertainty scores for the study of predictive uncertainty decomposition (aleatoric and epistemic components) in a mean-field Bayesian convolutional network trained on FashionMNIST. Experiments cover five types of distribution shift (MNIST, KMNIST, held-out FashionMNIST classes, rotations, Gaussian noise) under several training regimes with five fixed seeds each. Scripts in src/ rebuild every table and figure of the paper from the files in results/.",
+  "description": "Code, saved per-run metrics and raw per-object uncertainty scores for the study of predictive uncertainty decomposition (aleatoric and epistemic components) in a mean-field Bayesian convolutional network trained on FashionMNIST. Experiments cover five types of distribution shift (MNIST, KMNIST, held-out FashionMNIST classes, rotations, Gaussian noise) under several training regimes with five fixed seeds each. Scripts in src/ rebuild every table and figure of the paper from the files in results/. Supplementary tables S1–S4 with per-run values are in docs/tables_S1-S4.md and results/tables/; src/figures_article.py produces the article figures in the journal format (panels a and b as separate files).",
   "creators": [
-    {"name": "Kistin, Ilya A.", "affiliation": "Moscow Institute of Physics and Technology (MIPT); RANEPA"},
-    {"name": "Isaev, Sharip M.", "affiliation": "Advanced Engineering School “Digital Engineering”, Peter the Great St. Petersburg Polytechnic University"}
+    {
+      "name": "Kistin, Ilya A.",
+      "affiliation": "Moscow Institute of Physics and Technology (National Research University)"
+    },
+    {
+      "name": "Isaev, Sharip M.",
+      "affiliation": "ITMO University"
+    }
   ],
-  "keywords": ["Bayesian neural networks", "uncertainty decomposition", "epistemic uncertainty", "aleatoric uncertainty", "out-of-distribution detection", "variational inference", "reproducibility"],
+  "keywords": [
+    "Bayesian neural networks",
+    "uncertainty decomposition",
+    "epistemic uncertainty",
+    "aleatoric uncertainty",
+    "out-of-distribution detection",
+    "variational inference",
+    "reproducibility"
+  ],
   "access_right": "open"
 }

@@ -5,10 +5,10 @@ title: "Decomposition of predictive uncertainty in a Bayesian convolutional netw
 authors:
   - family-names: Kistin
     given-names: Ilya A.
-    affiliation: "Moscow Institute of Physics and Technology (MIPT); RANEPA"
+    affiliation: "Moscow Institute of Physics and Technology (National Research University)"
   - family-names: Isaev
     given-names: Sharip M.
-    affiliation: "Advanced Engineering School “Digital Engineering”, Peter the Great St. Petersburg Polytechnic University"
+    affiliation: "ITMO University"
 license: MIT
 doi: 10.5281/zenodo.22993207
 identifiers:
@@ -19,8 +19,8 @@ identifiers:
     value: 10.5281/zenodo.22993208
     description: "Version 1.0.0"
 repository-code: "https://github.com/i-SAVE/bnn-uncertainty-decomposition"
-version: "1.0.0"
-date-released: "2026-09-27"
+version: "1.1.0"
+date-released: "2026-10-08"
 keywords:
   - Bayesian neural networks
   - uncertainty decomposition
