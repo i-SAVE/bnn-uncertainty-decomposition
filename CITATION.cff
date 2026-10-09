@@ -18,9 +18,12 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.22993208
     description: "Version 1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.23254615
+    description: "Version 1.1.0"
 repository-code: "https://github.com/i-SAVE/bnn-uncertainty-decomposition"
 version: "1.1.0"
-date-released: "2026-10-08"
+date-released: "2026-10-09"
 keywords:
   - Bayesian neural networks
   - uncertainty decomposition

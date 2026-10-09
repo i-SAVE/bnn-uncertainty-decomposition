@@ -233,11 +233,12 @@ torchvision 0.29.0, numpy 2.4.4, scipy 1.17.1, scikit-learn 1.8.0, matplotlib 3.
 Код и результаты архивированы в Zenodo:
 
 * все версии (concept DOI): [10.5281/zenodo.22993207](https://doi.org/10.5281/zenodo.22993207);
+* версия v1.1.0 (соответствует тексту статьи; таблицы S1–S4): [10.5281/zenodo.23254615](https://doi.org/10.5281/zenodo.23254615);
 * версия v1.0.0: [10.5281/zenodo.22993208](https://doi.org/10.5281/zenodo.22993208).
 
 Kistin I.A., Isaev Sh.M. Decomposition of predictive uncertainty in a Bayesian convolutional
-network for out-of-distribution detection: code and results. Version 1.0.0. Zenodo, 2026.
-DOI: 10.5281/zenodo.22993208.
+network for out-of-distribution detection: code and results. Version 1.1.0. Zenodo, 2026.
+DOI: 10.5281/zenodo.23254615.
 
 Метаданные для цитирования — также в `CITATION.cff` (кнопка «Cite this repository» на странице
 репозитория).
